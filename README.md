@@ -1,6 +1,6 @@
 ## <i> Project-assignment-problem </i>
 ### 🏗️ About:
- This is project to solve the problem of project assignment through the simulated annealing approach.
+ This project aims to optimise the problem of project assignment through the simulated annealing approach.
  
  ### ❓ Problem:
  We have a list of students with the projects they want to take on. Also, the projects are given in order of their preference. Now we have to help the institute assign students to the teachers in such a way that no teacher is assigned more than their capacity and we can achieve maximum student satisfaction. Other constraints include that no project can be assigned to more than one student.
